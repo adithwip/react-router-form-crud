@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "categories": "Computer, Friends",
+      "content": "Post about friends and bla bla bla"
+    },
+    {
+      "title": "Coba post!",
+      "categories": "Test, JSON",
+      "content": "Ini adalah percobaan, jangan bikin anak coba coba",
+      "id": 2
+    }
+  ]
+}
